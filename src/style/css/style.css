@@ -117,6 +117,10 @@
   padding: 0px 15px;
 }
 
+.cut-box label {
+  font-size: 30px;
+}
+
 .loader {
   position: absolute;
   top: calc(50% - 4em);
